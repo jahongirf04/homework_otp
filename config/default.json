@@ -1,0 +1,15 @@
+{
+  "port": 3000,
+  "db_name": "eNavbat",
+  "db_host": "localhost",
+  "db_username": "postgres",
+  "db_password": "root",
+  "db_port": 5332,
+  "crypt_password": "Very_very_Secret_P@55w0rd",
+  "iv": "2840ee46",
+  "smtp_host": "smtp.gamil.com",
+  "smtp_port": 587,
+  "smtp_user": "jahongirf04@gmail.com",
+  "smtp_password": "gpussgvpfsswhtux",
+  "api_url": "http://localhost:3000"
+}
